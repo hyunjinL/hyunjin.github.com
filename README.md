@@ -1,2 +1,1 @@
-# resume.hyunjin.com
-resume page
+# RESUME
